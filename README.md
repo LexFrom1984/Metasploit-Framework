@@ -36,3 +36,4 @@ pg_ctl -D /data/data/com.termux/files/usr/var/lib/postgresql -l logfile start
 ```bash
 pg_ctl -D /data/data/com.termux/files/usr/var/lib/postgresql -l logfile stop
 ```
+## If You're copying my content, Please give me credits...
