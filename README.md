@@ -13,7 +13,7 @@ pkg install ruby curl git wget -y
 gem install bundler:1.17.3
 ```
 ```bash
-wget https://github.com/LexFrom1984/Metasploit-Framework/blob/main/metasploit_5.0.56_android5_all.deb
+wget https://raw.githubusercontent.com/LexFrom1984/Metasploit-Framework/main/metasploit_5.0.56_android5_all.deb
 ```
 ```bash
 chmod +x metasploit_5.0.56_android5_all.deb
