@@ -30,13 +30,13 @@ apt install -f
 dpkg -i metasploit_5.0.56_android5_all.deb
 ```
 #### So, Dependency & Metasploit are Installed successfully...
-
+##### Now you can run $ msfconsole or $ msfvenom 
 ##### You can start or stop Postgresql Database using this command...
-#####[start]
+##### [start]
 ```bash
 pg_ctl -D /data/data/com.termux/files/usr/var/lib/postgresql -l logfile start
 ```
-#####[stop]
+##### [stop]
 ```bash
 pg_ctl -D /data/data/com.termux/files/usr/var/lib/postgresql -l logfile stop
 ```
