@@ -4,10 +4,10 @@
 ##### (2) Start Termux.
 ##### (3) Run these commands step by step...
 ```bash
-apt update && apt upgrade -y
+apt-get update && apt-get upgrade -y
 ```
 ```bash
-apt install ruby curl git wget -y
+apt-get install ruby curl git wget -y
 ```
 ```bash
 gem install bundler:1.17.3
