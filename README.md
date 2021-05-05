@@ -7,7 +7,7 @@
 apt update && apt upgrade -y
 ```
 ```bash
-pkg install ruby curl git wget -y
+apt install ruby curl git wget -y
 ```
 ```bash
 gem install bundler:1.17.3
