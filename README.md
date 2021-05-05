@@ -25,6 +25,10 @@ dpkg -i metasploit_5.0.56_android5_all.deb
 ```bash
 apt install -f
 ```
+##### (5) Execute this command once again
+```bash
+dpkg -i metasploit_5.0.56_android5_all.deb
+```
 #### So, Dependency & Metasploit are Installed successfully...
 
 ##### You can start or stop Postgresql Database using this command...
